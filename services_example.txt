@@ -1,0 +1,11 @@
+# One service per line (lines starting with # are ignored)
+Fan Repair Service
+Plumbing Service
+AC Repair Service
+Electrician Service
+House Cleaning Service
+Pest Control Service
+Painting Service
+Carpentry Service
+Appliance Repair Service
+Gardening Service

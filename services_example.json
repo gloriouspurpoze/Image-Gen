@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fan Repair Service",
+    "description": "Ceiling fan and table fan installation and repair"
+  },
+  {
+    "name": "Plumbing Service",
+    "description": "Pipe fixing, tap repair, and drainage solutions"
+  },
+  {
+    "name": "AC Repair Service",
+    "description": "Air conditioner installation, servicing and gas refill"
+  },
+  {
+    "name": "Electrician Service",
+    "description": "Wiring, switch repair, and electrical troubleshooting"
+  },
+  {
+    "name": "House Cleaning Service",
+    "description": "Deep cleaning, bathroom cleaning, and kitchen cleaning"
+  },
+  {
+    "name": "Pest Control Service",
+    "description": "Cockroach, termite, and rodent pest control treatment"
+  },
+  {
+    "name": "Painting Service",
+    "description": "Interior and exterior wall painting and waterproofing"
+  },
+  {
+    "name": "Carpentry Service",
+    "description": "Furniture repair, door fitting, and woodwork"
+  },
+  {
+    "name": "Appliance Repair Service",
+    "description": "Washing machine, refrigerator, and microwave repair"
+  },
+  {
+    "name": "Gardening Service",
+    "description": "Lawn maintenance, plant care, and garden landscaping"
+  }
+]
